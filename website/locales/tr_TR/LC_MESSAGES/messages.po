@@ -1,0 +1,2712 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-08-30 11:31+0300\n"
+"PO-Revision-Date: 2020-08-30 13:42+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: overrides\n"
+"X-Poedit-SearchPathExcluded-1: locale\n"
+"X-Poedit-SearchPathExcluded-2: assets\n"
+
+#: Controllers/Error.php:22
+msgid "Page Not Found"
+msgstr "Sayfa bulunamadı"
+
+#: Controllers/Error.php:24
+msgid "The page you’re looking for can’t be found."
+msgstr "Aradığınız sayfa bulunamadı."
+
+#: Controllers/Pages.php:25
+msgid "Pro Currency Widgets: Free Web Tools for Webmaster"
+msgstr ""
+"Profesyonel Para Birimi Pencere Öğeleri: Web Yöneticisi için Ücretsiz Web "
+"Araçları"
+
+#: Controllers/Pages.php:26
+msgid ""
+"Professional embedded currency HTML-widgets for your website/blog. Flexible "
+"customization, pretty UI and complete adaptation for your website in few "
+"clicks."
+msgstr ""
+"Web siteniz / blogunuz için profesyonel gömülü para birimi HTML bileşenleri. "
+"Birkaç tıklamayla web siteniz için esnek özelleştirme, hoş kullanıcı arayüzü "
+"ve tam adaptasyon."
+
+#: Controllers/Pages.php:27
+msgid "Free Currency Widgets"
+msgstr "Ücretsiz Para Birimi Widget'ları"
+
+#: Controllers/Pages.php:28
+msgid ""
+"We offer you and your business powerful and easy-to-use solutions in the "
+"form of financial instruments for free, without compromises and trial "
+"periods. With our powerful and beautiful widgets you can attract more "
+"traffic on your website. Our HTML-widgets it's very simple for embeds — just "
+"one tag."
+msgstr ""
+"Size ve işinize güçlü ve kullanımı kolay çözümleri finansal araçlar şeklinde "
+"ücretsiz, ödün vermeden ve deneme süreleri sunuyoruz. Güçlü ve güzel "
+"widget'larımızla web sitenize daha fazla trafik çekebilirsiniz. HTML "
+"widget'larımız yerleştirmeler için çok basittir - sadece bir etiket."
+
+#: Controllers/Pages.php:29
+msgid "Features"
+msgstr "Özellikler"
+
+#: Controllers/Pages.php:30
+msgid "Special features"
+msgstr "Özel olanaklar"
+
+#: Controllers/Pages.php:35
+msgid "Exchange rates ~195 currencies"
+msgstr "Döviz kurları ~ 195 para birimi"
+
+#: Controllers/Pages.php:36 FXW_Layout.php:166 FXW_Layout.php:238
+msgid "Currency Converter"
+msgstr "Para Birimi Dönüştürücüsü"
+
+#: Controllers/Pages.php:37
+msgid ""
+"The Exchange rates for more than ~195 currencies, including bids for gold, "
+"silver, platinum end etc;"
+msgstr ""
+"Altın, gümüş, platin uçlu vb. Teklifler dahil ~ 195'den fazla para birimi "
+"için döviz kurları;"
+
+#: Controllers/Pages.php:40
+msgid "Flexible settings and responsive design"
+msgstr "Esnek ayarlar ve duyarlı tasarım"
+
+#: Controllers/Pages.php:41
+msgid "Design"
+msgstr "Tasarım"
+
+#: Controllers/Pages.php:42
+msgid "You can customize the style of the widget to your site in a few clicks."
+msgstr ""
+"Widget'ın stilini sitenize göre birkaç tıklamayla özelleştirebilirsiniz."
+
+#: Controllers/Pages.php:45
+msgid "We're use CDN"
+msgstr "CDN kullanıyoruz"
+
+#: Controllers/Pages.php:46
+msgid "Geography"
+msgstr "Coğrafya"
+
+#: Controllers/Pages.php:47
+msgid "Your users will receive the widget quickly anywhere in the world."
+msgstr ""
+"Kullanıcılarınız, widget'ı dünyanın her yerinde hızlı bir şekilde alacaktır."
+
+#: Controllers/Pages.php:50
+msgid "Multilingual"
+msgstr "Dil Eklentileri"
+
+#: Controllers/Pages.php:51
+msgid "Translation"
+msgstr "Çeviri"
+
+#: Controllers/Pages.php:52
+msgid "Available in 67 languages with support text direction."
+msgstr "Desteklenen metin yönü ile 67 dilde mevcuttur."
+
+#: Controllers/Pages.php:55 Controllers/Pages.php:56
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: Controllers/Pages.php:57
+msgid ""
+"No registration, no subscriptions and other barriers. Free for you and your "
+"website/blog."
+msgstr ""
+"Kayıt yok, abonelik yok ve diğer engeller yok. Siz ve web siteniz / blogunuz "
+"için ücretsiz."
+
+#: Controllers/Pages.php:63
+msgid "PageSpeed Insights tested 100%"
+msgstr "PageSpeed Insights %100 test edildi"
+
+#: Controllers/Pages.php:64
+msgid "PageSpeed"
+msgstr "Sayfa Hızı"
+
+#: Controllers/Pages.php:65
+msgid ""
+"We made sure that our widget doesn't slow down your website/blog. You can "
+"check our widget and see for yourself."
+msgstr ""
+"Widget'ımızın web sitenizi/blogunuzu yavaşlatmamasını sağladık. Widget'ımızı "
+"kontrol edebilir ve kendiniz görebilirsiniz."
+
+#: Controllers/Pages.php:68
+msgid "SEO-friendly"
+msgstr "SEO-dostu"
+
+#: Controllers/Pages.php:70
+msgid ""
+"You will not hurt your promotion, because you only use secure JavaScript "
+"with one HTML tag."
+msgstr ""
+"Yalnızca tek bir HTML etiketiyle güvenli JavaScript kullandığınız için "
+"promosyonunuza zarar vermezsiniz."
+
+#: Controllers/Pages.php:73
+msgid "Processed on a 3rd-party server"
+msgstr "Üçüncü taraf bir sunucuda işlendi"
+
+#: Controllers/Pages.php:75
+msgid ""
+"We want our widgets to be able to use any website/blog loadless. Therefore, "
+"all data is processed on third-party servers. On your website, users getting "
+"the finished product."
+msgstr ""
+"Widget'larımızın herhangi bir web sitesini / blogu yüksüz olarak "
+"kullanabilmesini istiyoruz. Bu nedenle, tüm veriler üçüncü taraf sunucularda "
+"işlenir. Web sitenizde kullanıcılar bitmiş ürünü alıyor."
+
+#: Controllers/Pages.php:78
+msgid "Reactive properties"
+msgstr "Reaktif özellikler"
+
+#: Controllers/Pages.php:79 FXW_Layout.php:144
+msgid "Reactive"
+msgstr "Tepkisel"
+
+#: Controllers/Pages.php:80
+msgid ""
+"You can change attributes and parameters of the widget (via JS or hands) and "
+"instantly see the changes without refresh."
+msgstr ""
+"Widget'ın niteliklerini ve parametrelerini (JS veya el ile) değiştirebilir "
+"ve değişiklikleri yenilemeden anında görebilirsiniz."
+
+#: Controllers/Pages.php:83
+msgid "SSL support"
+msgstr "SSL desteği"
+
+#: Controllers/Pages.php:85
+msgid "Our HTTP(S) connection is secure."
+msgstr "HTTP(S) bağlantımız güvenlidir."
+
+#: Controllers/Pages.php:97
+msgid "About us"
+msgstr "Hakkımızda"
+
+#: Controllers/Pages.php:98
+msgid "More about our project."
+msgstr "Projemiz hakkında daha fazla bilgi."
+
+#: Controllers/Pages.php:99
+msgid "About project"
+msgstr "Proje hakkında"
+
+#: Controllers/Pages.php:100
+msgid "We appreciate you taking the time to read more about our project."
+msgstr ""
+"Projemiz hakkında daha fazla bilgi almak için zaman ayırdığınız için "
+"teşekkür ederiz."
+
+#: Controllers/Pages.php:101
+msgid "This project was inspired by CurrencyRate.Today."
+msgstr "Bu proje CurrencyRate.Today'den esinlenmiştir."
+
+#: Controllers/Pages.php:103
+msgid ""
+"We only use paid access to exchange rates data to provide end users with "
+"secure ensure data."
+msgstr ""
+"Son kullanıcılara güvenli garanti verisi sağlamak için yalnızca döviz kuru "
+"verilerine ücretli erişimi kullanırız."
+
+#: Controllers/Pages.php:104
+msgid "Our data providers"
+msgstr "Veri sağlayıcılarımız"
+
+#: Controllers/Pages.php:105
+msgid "Icons"
+msgstr "Simgeler"
+
+#: Controllers/Pages.php:115
+msgid "Online support"
+msgstr "Online Destek"
+
+#: Controllers/Pages.php:116 Controllers/Pages.php:118
+msgid "Online help for our favourite users."
+msgstr "Favori kullanıcılarımız için çevrimiçi yardım."
+
+#: Controllers/Pages.php:117
+msgid "Support"
+msgstr "Destek"
+
+#: Controllers/Pages.php:119
+msgid "Do you need help?"
+msgstr "Yardıma ihtiyacın var mı ?"
+
+#: Controllers/Pages.php:120
+msgid ""
+"Our software engineers are happy to help you install or configure a widget, "
+"as well as help with any problems associated with our widgets."
+msgstr ""
+"Yazılım mühendislerimiz, bir pencere öğesi kurmanıza veya yapılandırmanıza "
+"yardımcı olmanın yanı sıra pencere öğelerimizle ilgili tüm sorunlarda "
+"yardımcı olmaktan memnuniyet duyar."
+
+#: Controllers/Pages.php:130
+msgid "Language codes for widgets"
+msgstr "Widget'lar için dil kodları"
+
+#: Controllers/Pages.php:131 Controllers/Pages.php:133
+msgid "Table of languages with codes for widgets."
+msgstr "Widget kodları içeren dil tablosu."
+
+#: Controllers/Pages.php:132 FXW_Layout.php:25
+msgid "Language codes"
+msgstr "Dil kodları"
+
+#: Controllers/Pages.php:143
+msgid "List of currencies with codes (ISO 4217)"
+msgstr "Kodlu para birimlerinin listesi (ISO 4217)"
+
+#: Controllers/Pages.php:144
+msgid "See, list of currencies with (ISO 4217)."
+msgstr "(ISO 4217) ile para birimlerinin listesine bakın."
+
+#: Controllers/Pages.php:145
+msgid "Currency codes"
+msgstr "Para birimi kodları"
+
+#: Controllers/Pages.php:146
+msgid "Table of currencies with codes (ISO 4217)."
+msgstr "Kodlu para birimleri tablosu (ISO 4217)."
+
+#: Controllers/Pages.php:156
+msgid "List of currencies of the world by countries"
+msgstr "Ülkelere göre dünya para birimlerinin listesi"
+
+#: Controllers/Pages.php:157
+msgid "See, list of circulating currencies by countries."
+msgstr "Ülkelere göre dolaşımdaki para birimlerinin listesine bakın."
+
+#: Controllers/Pages.php:158
+msgid "Circulating currencies"
+msgstr "Dolaşımdaki para birimleri"
+
+#: Controllers/Pages.php:159
+msgid "Table of circulating currencies by countries."
+msgstr "Ülkelere göre dolaşımdaki para birimleri tablosu."
+
+#: Controllers/Widgets.php:29
+msgid "Amount."
+msgstr "Miktar."
+
+#: Controllers/Widgets.php:35
+msgid "Main currency."
+msgstr "Ana para birimi."
+
+#: Controllers/Widgets.php:41
+msgid "Foreign pair."
+msgstr "Yabancı çift."
+
+#: Controllers/Widgets.php:47
+msgid "Head currency."
+msgstr "Baş para birimi."
+
+#: Controllers/Widgets.php:53
+msgid "Selected currencies."
+msgstr "Seçili para birimleri."
+
+#: Controllers/Widgets.php:59
+msgid "Popular currencies of the select form (show up first of list)."
+msgstr "Seçili formun popüler para birimleri (listenin başında gösterilir)."
+
+#: Controllers/Widgets.php:65
+msgid "Currency symbol."
+msgstr "Para birimi sembolü."
+
+#: Controllers/Widgets.php:71
+msgid "Show ISO code of currency only."
+msgstr "Yalnızca para biriminin ISO kodunu göster."
+
+#: Controllers/Widgets.php:77
+msgid "Large widget."
+msgstr "Büyük widget."
+
+#: Controllers/Widgets.php:83
+msgid "Show widget shadow."
+msgstr "Widget gölgesini göster."
+
+#: Controllers/Widgets.php:89
+msgid "Format amount."
+msgstr "Biçim miktarı."
+
+#: Controllers/Widgets.php:95
+msgid "Sets the thousands separator."
+msgstr "Binlik ayırıcıyı ayarlar."
+
+#: Controllers/Widgets.php:101
+msgid "Sets the number of decimal points."
+msgstr "Ondalık basamak sayısını ayarlar."
+
+#: Controllers/Widgets.php:107
+msgid "Sets the separator for the decimal point."
+msgstr "Ondalık nokta için ayırıcıyı ayarlar."
+
+#: Controllers/Widgets.php:113
+msgid "Rounded corners."
+msgstr "Yuvarlatılmış köşeler."
+
+#: Controllers/Widgets.php:119
+msgid "CSS «background-color» Property."
+msgstr "CSS «background-color» Özelliği."
+
+#: Controllers/Widgets.php:126
+msgid "CSS «background» Property."
+msgstr "CSS «background» Özelliği."
+
+#: Controllers/Widgets.php:133
+msgid "Indicator of currency rates changes in 24 hours."
+msgstr "Döviz kurlarının göstergesi 24 saat içinde değişir."
+
+#: Controllers/Widgets.php:139
+msgid "Language of widget."
+msgstr "Widget'ın dili."
+
+#: Controllers/Widgets.php:145
+msgid "Border of widget."
+msgstr "Widget'ın sınırı."
+
+#: Controllers/Widgets.php:151
+msgid "Input form: adding as a percentage/tax to the amount."
+msgstr "Giriş formu: Tutara yüzde/vergi olarak ekleme."
+
+#: Controllers/Widgets.php:187
+msgid "This web tool make currency conversion."
+msgstr "Bu web aracı para birimi dönüştürme işlemi yapar."
+
+#: Controllers/Widgets.php:189
+msgid ""
+"Easy-to-use widget which you can 💱 convert more than ~195 currencies in the "
+"real-time with pretty UI. Embeds simple to your website ✅ just like a "
+"YouTube video."
+msgstr ""
+"Güzel kullanıcı arayüzü ile gerçek zamanlı olarak ~ 195'den fazla para "
+"birimini dönüştürebileceğiniz, kullanımı kolay widget. Web sitenize bir "
+"YouTube videosu gibi basit bir şekilde yerleştirir."
+
+#: Controllers/Widgets.php:216 Controllers/Widgets.php:323
+#: Controllers/Widgets.php:437 Controllers/Widgets.php:544
+msgid "Large"
+msgstr "Büyük"
+
+#: Controllers/Widgets.php:221 Controllers/Widgets.php:328
+#: Controllers/Widgets.php:442 Controllers/Widgets.php:549
+msgid "Shadow"
+msgstr "Gölge"
+
+#: Controllers/Widgets.php:226 Controllers/Widgets.php:333
+#: Controllers/Widgets.php:447 Controllers/Widgets.php:554
+msgid "Symbol"
+msgstr "Sembol"
+
+#: Controllers/Widgets.php:231 Controllers/Widgets.php:348
+#: Controllers/Widgets.php:452 Controllers/Widgets.php:579
+msgid "Grouping"
+msgstr "Gruplama"
+
+#: Controllers/Widgets.php:236 Controllers/Widgets.php:353
+#: Controllers/Widgets.php:457 Controllers/Widgets.php:584
+msgid "Border"
+msgstr "Kenarlık"
+
+#: Controllers/Widgets.php:294
+msgid "This web tool displays exchange rates."
+msgstr "Bu web aracı döviz kurlarını gösterir."
+
+#: Controllers/Widgets.php:296
+msgid ""
+"Easy-to-use widget which shows the 💲 exchange rates for one currency "
+"converting to other currencies with pretty UI. Embeds simple to your website "
+"✅ just like a YouTube video."
+msgstr ""
+"Güzel kullanıcı arayüzü ile bir para biriminin diğer para birimlerine "
+"dönüştürüldüğü döviz kurlarını gösteren, kullanımı kolay widget. Web "
+"sitenize bir YouTube videosu gibi basit bir şekilde yerleştirir."
+
+#: Controllers/Widgets.php:338 Controllers/Widgets.php:559
+msgid "Flag"
+msgstr "Bayrak"
+
+#: Controllers/Widgets.php:343
+msgid "Changes"
+msgstr "Değişiklikler"
+
+#: Controllers/Widgets.php:408
+msgid "This web tool make calc multiple currencies."
+msgstr "Bu web aracı, birden fazla para birimini hesaplar."
+
+#: Controllers/Widgets.php:410
+msgid ""
+"PRO 🔵 web tool which you can 💱 convert more than ~195 currencies in the real-"
+"time with extended features and pretty UI. Embeds simple to your website ✅ "
+"just like a YouTube video."
+msgstr ""
+"Genişletilmiş özellikler ve hoş kullanıcı arayüzü ile gerçek zamanlı olarak "
+"~ 195'den fazla para birimini dönüştürebileceğiniz PRO 🔵 web aracı. Web "
+"sitenize bir YouTube videosu gibi basit bir şekilde yerleştirir."
+
+#: Controllers/Widgets.php:515
+msgid "This web tool displays exchange rates with PRO features."
+msgstr "Bu web aracı PRO özellikli döviz kurlarını gösterir."
+
+#: Controllers/Widgets.php:517
+msgid ""
+"PRO 🔵 web tool which shows the 💲 exchange rates for one currency converting "
+"to other currencies with extended features and pretty UI. Embeds simple to "
+"your website ✅ just like a YouTube video."
+msgstr ""
+"Genişletilmiş özelliklere ve hoş kullanıcı arayüzüne sahip bir para "
+"biriminin diğer para birimlerine dönüştürülmesini gösteren PRO 🔵 web aracı. "
+"Web sitenize bir YouTube videosu gibi basit bir şekilde yerleştirir."
+
+#: Controllers/Widgets.php:564
+msgid "Changes (24h)"
+msgstr "Değişiklikler (24saat)"
+
+#: Controllers/Widgets.php:569
+msgid "Percent/Tax"
+msgstr "Yüzde/Vergi"
+
+#: Controllers/Widgets.php:574 FXW_Layout.php:152
+msgid "Code"
+msgstr "Kod"
+
+#: FXW_DataArrays.php:129
+msgid "Andorra"
+msgstr "Andorra"
+
+#: FXW_DataArrays.php:130
+msgid "United Arab Emirates"
+msgstr "Birleşik Arap Emirlikleri"
+
+#: FXW_DataArrays.php:131
+msgid "Afghanistan"
+msgstr "Afganistan"
+
+#: FXW_DataArrays.php:132
+msgid "Antigua and Barbuda"
+msgstr "Antigua ve Barbuda"
+
+#: FXW_DataArrays.php:133
+msgid "Anguilla"
+msgstr "Anguilla"
+
+#: FXW_DataArrays.php:134
+msgid "Albania"
+msgstr "Arnavutluk"
+
+#: FXW_DataArrays.php:135
+msgid "Armenia"
+msgstr "Ermenistan"
+
+#: FXW_DataArrays.php:136
+msgid "Angola"
+msgstr "Angola"
+
+#: FXW_DataArrays.php:137
+msgid "Argentina"
+msgstr "Arjantin"
+
+#: FXW_DataArrays.php:138
+msgid "American Samoa"
+msgstr "Amerikan Samoası"
+
+#: FXW_DataArrays.php:139
+msgid "Austria"
+msgstr "Avusturya"
+
+#: FXW_DataArrays.php:140
+msgid "Australia"
+msgstr "Avustralya"
+
+#: FXW_DataArrays.php:141
+msgid "Aruba"
+msgstr "Aruba"
+
+#: FXW_DataArrays.php:142
+msgid "Åland"
+msgstr "Åland"
+
+#: FXW_DataArrays.php:143
+msgid "Azerbaijan"
+msgstr "Azerbaycan"
+
+#: FXW_DataArrays.php:144
+msgid "Bosnia and Herzegovina"
+msgstr "Bosna-Hersek"
+
+#: FXW_DataArrays.php:145
+msgid "Barbados"
+msgstr "Barbados"
+
+#: FXW_DataArrays.php:146
+msgid "Bangladesh"
+msgstr "Bangladeş"
+
+#: FXW_DataArrays.php:147
+msgid "Belgium"
+msgstr "Belçika"
+
+#: FXW_DataArrays.php:148
+msgid "Burkina Faso"
+msgstr "Burkina Faso"
+
+#: FXW_DataArrays.php:149
+msgid "Bulgaria"
+msgstr "Bulgaristan"
+
+#: FXW_DataArrays.php:150
+msgid "Bahrain"
+msgstr "Bahreyn"
+
+#: FXW_DataArrays.php:151
+msgid "Burundi"
+msgstr "Burundi"
+
+#: FXW_DataArrays.php:152
+msgid "Benin"
+msgstr "Benin"
+
+#: FXW_DataArrays.php:153
+msgid "Saint Barthélemy"
+msgstr "Aziz Barthélemy"
+
+#: FXW_DataArrays.php:154
+msgid "Bermuda"
+msgstr "Bermuda"
+
+#: FXW_DataArrays.php:155
+msgid "Brunei"
+msgstr "Brunei Sultanlığı"
+
+#: FXW_DataArrays.php:156
+msgid "Bolivia"
+msgstr "Bolivya"
+
+#: FXW_DataArrays.php:157
+msgid "Bonaire"
+msgstr "Bonaire"
+
+#: FXW_DataArrays.php:158
+msgid "Brazil"
+msgstr "Brezilya"
+
+#: FXW_DataArrays.php:159
+msgid "Bahamas"
+msgstr "Bahamalar"
+
+#: FXW_DataArrays.php:160
+msgid "Bhutan"
+msgstr "Butan"
+
+#: FXW_DataArrays.php:161
+msgid "Bouvet Island"
+msgstr "Bouvet Adası"
+
+#: FXW_DataArrays.php:162
+msgid "Botswana"
+msgstr "Botsvana"
+
+#: FXW_DataArrays.php:163
+msgid "Belarus"
+msgstr "Belarus"
+
+#: FXW_DataArrays.php:164
+msgid "Belize"
+msgstr "Belize"
+
+#: FXW_DataArrays.php:165
+msgid "Canada"
+msgstr "Kanada"
+
+#: FXW_DataArrays.php:166
+msgid "Cocos [Keeling] Islands"
+msgstr "Cocos [Keeling] Adaları"
+
+#: FXW_DataArrays.php:167
+msgid "Democratic Republic of the Congo"
+msgstr "Kongo Demokratik Cumhuriyeti"
+
+#: FXW_DataArrays.php:168
+msgid "Central African Republic"
+msgstr "Orta Afrika Cumhuriyeti"
+
+#: FXW_DataArrays.php:169
+msgid "Republic of the Congo"
+msgstr "Kongo Cumhuriyeti"
+
+#: FXW_DataArrays.php:170
+msgid "Switzerland"
+msgstr "İsviçre"
+
+#: FXW_DataArrays.php:171
+msgid "Ivory Coast"
+msgstr "Fildişi Sahili"
+
+#: FXW_DataArrays.php:172
+msgid "Cook Islands"
+msgstr "Cook Adaları"
+
+#: FXW_DataArrays.php:173
+msgid "Chile"
+msgstr "Şili"
+
+#: FXW_DataArrays.php:174
+msgid "Cameroon"
+msgstr "Kamerun"
+
+#: FXW_DataArrays.php:175
+msgid "China"
+msgstr "Çin"
+
+#: FXW_DataArrays.php:176
+msgid "Colombia"
+msgstr "Kolombiya"
+
+#: FXW_DataArrays.php:177
+msgid "Costa Rica"
+msgstr "Kosta Rika"
+
+#: FXW_DataArrays.php:178
+msgid "Cuba"
+msgstr "Küba"
+
+#: FXW_DataArrays.php:179
+msgid "Cape Verde"
+msgstr "Cape Verde"
+
+#: FXW_DataArrays.php:180
+msgid "Curacao"
+msgstr "Curacao"
+
+#: FXW_DataArrays.php:181
+msgid "Christmas Island"
+msgstr "Noel Adası"
+
+#: FXW_DataArrays.php:182
+msgid "Cyprus"
+msgstr "Kıbrıs"
+
+#: FXW_DataArrays.php:183
+msgid "Czech Republic"
+msgstr "Çek Cumhuriyeti"
+
+#: FXW_DataArrays.php:184
+msgid "Germany"
+msgstr "Almanya"
+
+#: FXW_DataArrays.php:185
+msgid "Djibouti"
+msgstr "Cibuti"
+
+#: FXW_DataArrays.php:186
+msgid "Denmark"
+msgstr "Danimarka"
+
+#: FXW_DataArrays.php:187
+msgid "Dominica"
+msgstr "Dominik"
+
+#: FXW_DataArrays.php:188
+msgid "Dominican Republic"
+msgstr "Dominik Cumhuriyeti"
+
+#: FXW_DataArrays.php:189
+msgid "Algeria"
+msgstr "Cezayir"
+
+#: FXW_DataArrays.php:190
+msgid "Ecuador"
+msgstr "Ekvator"
+
+#: FXW_DataArrays.php:191
+msgid "Estonia"
+msgstr "Estonya"
+
+#: FXW_DataArrays.php:192
+msgid "Egypt"
+msgstr "Mısır"
+
+#: FXW_DataArrays.php:193
+msgid "Eritrea"
+msgstr "Eritrea"
+
+#: FXW_DataArrays.php:194
+msgid "Spain"
+msgstr "İspanya"
+
+#: FXW_DataArrays.php:195
+msgid "Ethiopia"
+msgstr "Etiopya"
+
+#: FXW_DataArrays.php:196
+msgid "Finland"
+msgstr "Finlandiya"
+
+#: FXW_DataArrays.php:197
+msgid "Fiji"
+msgstr "Fiji"
+
+#: FXW_DataArrays.php:198
+msgid "Falkland Islands"
+msgstr "Falkland Adaları"
+
+#: FXW_DataArrays.php:199
+msgid "Micronesia"
+msgstr "Mikronezya"
+
+#: FXW_DataArrays.php:200
+msgid "Faroe Islands"
+msgstr "Faroe Adaları"
+
+#: FXW_DataArrays.php:201
+msgid "France"
+msgstr "Fransa"
+
+#: FXW_DataArrays.php:202
+msgid "Gabon"
+msgstr "Gabon"
+
+#: FXW_DataArrays.php:203
+msgid "United Kingdom"
+msgstr "Birleşik Krallık"
+
+#: FXW_DataArrays.php:204
+msgid "Grenada"
+msgstr "Greneda"
+
+#: FXW_DataArrays.php:205
+msgid "Georgia"
+msgstr "Gürcistan"
+
+#: FXW_DataArrays.php:206
+msgid "French Guiana"
+msgstr "Fransız Ginesi"
+
+#: FXW_DataArrays.php:207
+msgid "Guernsey"
+msgstr "Guernsey"
+
+#: FXW_DataArrays.php:208
+msgid "Ghana"
+msgstr "Gana"
+
+#: FXW_DataArrays.php:209
+msgid "Gibraltar"
+msgstr "Cebelitarık"
+
+#: FXW_DataArrays.php:210
+msgid "Greenland"
+msgstr "Grönland"
+
+#: FXW_DataArrays.php:211
+msgid "Gambia"
+msgstr "Gambiya"
+
+#: FXW_DataArrays.php:212
+msgid "Guinea"
+msgstr "Gine"
+
+#: FXW_DataArrays.php:213
+msgid "Guadeloupe"
+msgstr "Guadalupe"
+
+#: FXW_DataArrays.php:214
+msgid "Equatorial Guinea"
+msgstr "Ekvator Ginesi"
+
+#: FXW_DataArrays.php:215
+msgid "Greece"
+msgstr "Yunanistan"
+
+#: FXW_DataArrays.php:216
+msgid "South Georgia and the South Sandwich Islands"
+msgstr "Güney Georgia ve Güney Sandwich Adaları"
+
+#: FXW_DataArrays.php:217
+msgid "Guatemala"
+msgstr "Guatemala"
+
+#: FXW_DataArrays.php:218
+msgid "Guam"
+msgstr "Guam"
+
+#: FXW_DataArrays.php:219
+msgid "Guinea-Bissau"
+msgstr "Gine-Bisav"
+
+#: FXW_DataArrays.php:220
+msgid "Guyana"
+msgstr "Guyana"
+
+#: FXW_DataArrays.php:221
+msgid "Hong Kong"
+msgstr "Hong Kong"
+
+#: FXW_DataArrays.php:222
+msgid "Heard Island and McDonald Islands"
+msgstr "Heard Adası & McDonald Adaları"
+
+#: FXW_DataArrays.php:223
+msgid "Honduras"
+msgstr "Honduras"
+
+#: FXW_DataArrays.php:224
+msgid "Croatia"
+msgstr "Hırvatistan"
+
+#: FXW_DataArrays.php:225
+msgid "Haiti"
+msgstr "Haiti"
+
+#: FXW_DataArrays.php:226
+msgid "Hungary"
+msgstr "Macaristan"
+
+#: FXW_DataArrays.php:227
+msgid "Indonesia"
+msgstr "Endonezya"
+
+#: FXW_DataArrays.php:228
+msgid "Ireland"
+msgstr "İrlanda"
+
+#: FXW_DataArrays.php:229
+msgid "Israel"
+msgstr "İsrail"
+
+#: FXW_DataArrays.php:230
+msgid "Isle of Man"
+msgstr "Man Adası"
+
+#: FXW_DataArrays.php:231
+msgid "India"
+msgstr "Hindistan"
+
+#: FXW_DataArrays.php:232
+msgid "British Indian Ocean Territory"
+msgstr "İngiliz Hint Okyanusu Bölgesi"
+
+#: FXW_DataArrays.php:233
+msgid "Iraq"
+msgstr "Irak"
+
+#: FXW_DataArrays.php:234
+msgid "Iran"
+msgstr "İran"
+
+#: FXW_DataArrays.php:235
+msgid "Iceland"
+msgstr "İzlanda"
+
+#: FXW_DataArrays.php:236
+msgid "Italy"
+msgstr "İtalya"
+
+#: FXW_DataArrays.php:237
+msgid "Jersey"
+msgstr "Jersey"
+
+#: FXW_DataArrays.php:238
+msgid "Jamaica"
+msgstr "Jamaika"
+
+#: FXW_DataArrays.php:239
+msgid "Jordan"
+msgstr "Ürdün"
+
+#: FXW_DataArrays.php:240
+msgid "Japan"
+msgstr "Japonya"
+
+#: FXW_DataArrays.php:241
+msgid "Kenya"
+msgstr "Kenya"
+
+#: FXW_DataArrays.php:242
+msgid "Kyrgyzstan"
+msgstr "Kırgızistan"
+
+#: FXW_DataArrays.php:243
+msgid "Cambodia"
+msgstr "Kamboçya"
+
+#: FXW_DataArrays.php:244
+msgid "Kiribati"
+msgstr "Kiribati"
+
+#: FXW_DataArrays.php:245
+msgid "Comoros"
+msgstr "Comoros"
+
+#: FXW_DataArrays.php:246
+msgid "Saint Kitts and Nevis"
+msgstr "Saint Kitts ve Nevis"
+
+#: FXW_DataArrays.php:247
+msgid "North Korea"
+msgstr "Kuzey Kore"
+
+#: FXW_DataArrays.php:248
+msgid "South Korea"
+msgstr "Güney Kore"
+
+#: FXW_DataArrays.php:249
+msgid "Kuwait"
+msgstr "Kuveyt"
+
+#: FXW_DataArrays.php:250
+msgid "Cayman Islands"
+msgstr "Cayman Adaları"
+
+#: FXW_DataArrays.php:251
+msgid "Kazakhstan"
+msgstr "Kazakistan"
+
+#: FXW_DataArrays.php:252
+msgid "Laos"
+msgstr "Laos"
+
+#: FXW_DataArrays.php:253
+msgid "Lebanon"
+msgstr "Lübnan"
+
+#: FXW_DataArrays.php:254
+msgid "Saint Lucia"
+msgstr "Saint Lucia"
+
+#: FXW_DataArrays.php:255
+msgid "Liechtenstein"
+msgstr "Lihtenştayn"
+
+#: FXW_DataArrays.php:256
+msgid "Sri Lanka"
+msgstr "Sri Lanka"
+
+#: FXW_DataArrays.php:257
+msgid "Liberia"
+msgstr "Liberya"
+
+#: FXW_DataArrays.php:258
+msgid "Lesotho"
+msgstr "Lesoto"
+
+#: FXW_DataArrays.php:259
+msgid "Lithuania"
+msgstr "Litvanya"
+
+#: FXW_DataArrays.php:260
+msgid "Luxembourg"
+msgstr "Lüksemburg"
+
+#: FXW_DataArrays.php:261
+msgid "Latvia"
+msgstr "Letonya"
+
+#: FXW_DataArrays.php:262
+msgid "Libya"
+msgstr "Libya"
+
+#: FXW_DataArrays.php:263
+msgid "Morocco"
+msgstr "Fas"
+
+#: FXW_DataArrays.php:264
+msgid "Monaco"
+msgstr "Monako"
+
+#: FXW_DataArrays.php:265
+msgid "Moldova"
+msgstr "Moldova"
+
+#: FXW_DataArrays.php:266
+msgid "Montenegro"
+msgstr "Karadağ"
+
+#: FXW_DataArrays.php:267
+msgid "Saint Martin"
+msgstr "Saint Martin"
+
+#: FXW_DataArrays.php:268
+msgid "Madagascar"
+msgstr "Madagaskar"
+
+#: FXW_DataArrays.php:269
+msgid "Marshall Islands"
+msgstr "Marshall adaları"
+
+#: FXW_DataArrays.php:270
+msgid "North Macedonia"
+msgstr "Kuzey Makedonya"
+
+#: FXW_DataArrays.php:271
+msgid "Mali"
+msgstr "Mali"
+
+#: FXW_DataArrays.php:272
+msgid "Myanmar [Burma]"
+msgstr "Myanmar [Burma]"
+
+#: FXW_DataArrays.php:273
+msgid "Mongolia"
+msgstr "Moğolistan"
+
+#: FXW_DataArrays.php:274
+msgid "Macao"
+msgstr "Macao"
+
+#: FXW_DataArrays.php:275
+msgid "Northern Mariana Islands"
+msgstr "Kuzey Mariana Adaları"
+
+#: FXW_DataArrays.php:276
+msgid "Martinique"
+msgstr "Martinik"
+
+#: FXW_DataArrays.php:277
+msgid "Mauritania"
+msgstr "Moritanya"
+
+#: FXW_DataArrays.php:278
+msgid "Montserrat"
+msgstr "Montserat"
+
+#: FXW_DataArrays.php:279
+msgid "Malta"
+msgstr "Malta"
+
+#: FXW_DataArrays.php:280
+msgid "Mauritius"
+msgstr "Morityus"
+
+#: FXW_DataArrays.php:281
+msgid "Maldives"
+msgstr "Maldivler"
+
+#: FXW_DataArrays.php:282
+msgid "Malawi"
+msgstr "Malawi"
+
+#: FXW_DataArrays.php:283
+msgid "Mexico"
+msgstr "Meksika"
+
+#: FXW_DataArrays.php:284
+msgid "Malaysia"
+msgstr "Malezya"
+
+#: FXW_DataArrays.php:285
+msgid "Mozambique"
+msgstr "Mozambik"
+
+#: FXW_DataArrays.php:286
+msgid "Namibia"
+msgstr "Namibya"
+
+#: FXW_DataArrays.php:287
+msgid "New Caledonia"
+msgstr "Yeni Kaledonya"
+
+#: FXW_DataArrays.php:288
+msgid "Niger"
+msgstr "Nijer"
+
+#: FXW_DataArrays.php:289
+msgid "Norfolk Island"
+msgstr "Norfolk Adası"
+
+#: FXW_DataArrays.php:290
+msgid "Nigeria"
+msgstr "Nijerya"
+
+#: FXW_DataArrays.php:291
+msgid "Nicaragua"
+msgstr "Nikaragua"
+
+#: FXW_DataArrays.php:292
+msgid "Netherlands"
+msgstr "Hollanda"
+
+#: FXW_DataArrays.php:293
+msgid "Norway"
+msgstr "Norveç"
+
+#: FXW_DataArrays.php:294
+msgid "Nepal"
+msgstr "Nepal"
+
+#: FXW_DataArrays.php:295
+msgid "Nauru"
+msgstr "Nauru"
+
+#: FXW_DataArrays.php:296
+msgid "Niue"
+msgstr "Niue"
+
+#: FXW_DataArrays.php:297
+msgid "New Zealand"
+msgstr "Yeni Zelanda"
+
+#: FXW_DataArrays.php:298
+msgid "Oman"
+msgstr "Umman"
+
+#: FXW_DataArrays.php:299
+msgid "Panama"
+msgstr "Panama"
+
+#: FXW_DataArrays.php:300
+msgid "Peru"
+msgstr "Peru"
+
+#: FXW_DataArrays.php:301
+msgid "French Polynesia"
+msgstr "Fransız Polinezyası"
+
+#: FXW_DataArrays.php:302
+msgid "Papua New Guinea"
+msgstr "Papua Yeni Gine"
+
+#: FXW_DataArrays.php:303
+msgid "Philippines"
+msgstr "Filipinler"
+
+#: FXW_DataArrays.php:304
+msgid "Pakistan"
+msgstr "Pakistan"
+
+#: FXW_DataArrays.php:305
+msgid "Poland"
+msgstr "Polonya"
+
+#: FXW_DataArrays.php:306
+msgid "Saint Pierre and Miquelon"
+msgstr "Saint Pierre and Miquelon"
+
+#: FXW_DataArrays.php:307
+msgid "Pitcairn Islands"
+msgstr "Pitcairn Adaları"
+
+#: FXW_DataArrays.php:308
+msgid "Puerto Rico"
+msgstr "Porto Riko"
+
+#: FXW_DataArrays.php:309
+msgid "Palestine"
+msgstr "Filistin"
+
+#: FXW_DataArrays.php:310
+msgid "Portugal"
+msgstr "Portekiz"
+
+#: FXW_DataArrays.php:311
+msgid "Palau"
+msgstr "Palau"
+
+#: FXW_DataArrays.php:312
+msgid "Paraguay"
+msgstr "Paraguay"
+
+#: FXW_DataArrays.php:313
+msgid "Qatar"
+msgstr "Katar"
+
+#: FXW_DataArrays.php:314
+msgid "Réunion"
+msgstr "Réunion"
+
+#: FXW_DataArrays.php:315
+msgid "Romania"
+msgstr "Romanya"
+
+#: FXW_DataArrays.php:316
+msgid "Serbia"
+msgstr "Sırbistan"
+
+#: FXW_DataArrays.php:317
+msgid "Russia"
+msgstr "Rusya"
+
+#: FXW_DataArrays.php:318
+msgid "Rwanda"
+msgstr "Ruanda"
+
+#: FXW_DataArrays.php:319
+msgid "Saudi Arabia"
+msgstr "Suudi Arabistan"
+
+#: FXW_DataArrays.php:320
+msgid "Solomon Islands"
+msgstr "Solomon Adaları"
+
+#: FXW_DataArrays.php:321
+msgid "Seychelles"
+msgstr "Şeyseller"
+
+#: FXW_DataArrays.php:322
+msgid "Sudan"
+msgstr "Sudan"
+
+#: FXW_DataArrays.php:323
+msgid "Sweden"
+msgstr "İsveç"
+
+#: FXW_DataArrays.php:324
+msgid "Singapore"
+msgstr "Singapur"
+
+#: FXW_DataArrays.php:325
+msgid "Saint Helena"
+msgstr "Saint Helena"
+
+#: FXW_DataArrays.php:326
+msgid "Slovenia"
+msgstr "Slovenya"
+
+#: FXW_DataArrays.php:327
+msgid "Svalbard and Jan Mayen"
+msgstr "Svalbard ve Jan Mayen"
+
+#: FXW_DataArrays.php:328
+msgid "Slovakia"
+msgstr "Slovakya"
+
+#: FXW_DataArrays.php:329
+msgid "Sierra Leone"
+msgstr "Sierra Leone"
+
+#: FXW_DataArrays.php:330
+msgid "San Marino"
+msgstr "San Marino"
+
+#: FXW_DataArrays.php:331
+msgid "Senegal"
+msgstr "Senegal"
+
+#: FXW_DataArrays.php:332
+msgid "Somalia"
+msgstr "Somali"
+
+#: FXW_DataArrays.php:333
+msgid "Suriname"
+msgstr "Surinam"
+
+#: FXW_DataArrays.php:334
+msgid "South Sudan"
+msgstr "Güney Sudan"
+
+#: FXW_DataArrays.php:335
+msgid "São Tomé and Príncipe"
+msgstr "São Tomé ve Príncipe"
+
+#: FXW_DataArrays.php:336
+msgid "El Salvador"
+msgstr "El Salvador"
+
+#: FXW_DataArrays.php:337
+msgid "Sint Maarten"
+msgstr "Sint Maarten"
+
+#: FXW_DataArrays.php:338
+msgid "Syria"
+msgstr "Suriye"
+
+#: FXW_DataArrays.php:339
+msgid "Swaziland"
+msgstr "Svaziland"
+
+#: FXW_DataArrays.php:340
+msgid "Turks and Caicos Islands"
+msgstr "Turks ve Caicos Adaları"
+
+#: FXW_DataArrays.php:341
+msgid "Chad"
+msgstr "Çad"
+
+#: FXW_DataArrays.php:342
+msgid "French Southern Territories"
+msgstr "Fransız Güney Bölgesi"
+
+#: FXW_DataArrays.php:343
+msgid "Togo"
+msgstr "Togo"
+
+#: FXW_DataArrays.php:344
+msgid "Thailand"
+msgstr "Tayland"
+
+#: FXW_DataArrays.php:345
+msgid "Tajikistan"
+msgstr "Tacikistan"
+
+#: FXW_DataArrays.php:346
+msgid "Tokelau"
+msgstr "Tokelau"
+
+#: FXW_DataArrays.php:347
+msgid "East Timor"
+msgstr "Doğu Timor"
+
+#: FXW_DataArrays.php:348
+msgid "Turkmenistan"
+msgstr "Türkmenistan"
+
+#: FXW_DataArrays.php:349
+msgid "Tunisia"
+msgstr "Tunus"
+
+#: FXW_DataArrays.php:350
+msgid "Tonga"
+msgstr "Tonga"
+
+#: FXW_DataArrays.php:351
+msgid "Turkey"
+msgstr "Türkiye"
+
+#: FXW_DataArrays.php:352
+msgid "Trinidad and Tobago"
+msgstr "Trinidad ve Tobago"
+
+#: FXW_DataArrays.php:353
+msgid "Tuvalu"
+msgstr "Tuvalu"
+
+#: FXW_DataArrays.php:354
+msgid "Taiwan"
+msgstr "Tayvan"
+
+#: FXW_DataArrays.php:355
+msgid "Tanzania"
+msgstr "Tanzanya"
+
+#: FXW_DataArrays.php:356
+msgid "Ukraine"
+msgstr "Ukrayna"
+
+#: FXW_DataArrays.php:357
+msgid "Uganda"
+msgstr "Uganda"
+
+#: FXW_DataArrays.php:358
+msgid "U.S. Minor Outlying Islands"
+msgstr "ABD Küçük Dış Adaları"
+
+#: FXW_DataArrays.php:359
+msgid "United States"
+msgstr "Amerika Birleşik Devletleri"
+
+#: FXW_DataArrays.php:360
+msgid "Uruguay"
+msgstr "Uruguay"
+
+#: FXW_DataArrays.php:361
+msgid "Uzbekistan"
+msgstr "Özbekistan"
+
+#: FXW_DataArrays.php:362
+msgid "Vatican City"
+msgstr "Vatikan Şehri"
+
+#: FXW_DataArrays.php:363
+msgid "Saint Vincent and the Grenadines"
+msgstr "Saint Vincent ve Grenadinler"
+
+#: FXW_DataArrays.php:364
+msgid "Venezuela"
+msgstr "Venezuella"
+
+#: FXW_DataArrays.php:365
+msgid "British Virgin Islands"
+msgstr "Virjin Adaları (İngiliz)"
+
+#: FXW_DataArrays.php:366
+msgid "U.S. Virgin Islands"
+msgstr "Amerika Birleşik Devletleri (ABD) Virgin Adaları"
+
+#: FXW_DataArrays.php:367
+msgid "Vietnam"
+msgstr "Vietnam"
+
+#: FXW_DataArrays.php:368
+msgid "Vanuatu"
+msgstr "Vanuatu"
+
+#: FXW_DataArrays.php:369
+msgid "Wallis and Futuna"
+msgstr "Wallis ve Futuna"
+
+#: FXW_DataArrays.php:370
+msgid "Samoa"
+msgstr "Samoa"
+
+#: FXW_DataArrays.php:371
+msgid "Kosovo"
+msgstr "Kosova"
+
+#: FXW_DataArrays.php:372
+msgid "Yemen"
+msgstr "Yemen"
+
+#: FXW_DataArrays.php:373
+msgid "Mayotte"
+msgstr "Mayotte"
+
+#: FXW_DataArrays.php:374
+msgid "South Africa"
+msgstr "Güney Afrika"
+
+#: FXW_DataArrays.php:375
+msgid "Zambia"
+msgstr "Zambiya"
+
+#: FXW_DataArrays.php:376
+msgid "Zimbabwe"
+msgstr "Zimbabve"
+
+#: FXW_DataArrays.php:400
+msgid "UAE Dirham"
+msgstr "BAE Dirhamı"
+
+#: FXW_DataArrays.php:401
+msgid "Afghan Afghani"
+msgstr "Afgan Afganisi"
+
+#: FXW_DataArrays.php:402
+msgid "Albanian Lek"
+msgstr "Arnavutluk Leki"
+
+#: FXW_DataArrays.php:403
+msgid "Armenian Dram"
+msgstr "Ermenistan Dramı"
+
+#: FXW_DataArrays.php:404
+msgid "Netherlands Antillean Guilder"
+msgstr "Hollanda Antilleri Gulderi"
+
+#: FXW_DataArrays.php:405
+msgid "Angolan Kwanza"
+msgstr "Angola Kwanzası"
+
+#: FXW_DataArrays.php:406
+msgid "Argentine Peso"
+msgstr "Arjantin Pesosu"
+
+#: FXW_DataArrays.php:407
+msgid "Australian Dollar"
+msgstr "Avustralya Doları"
+
+#: FXW_DataArrays.php:408
+msgid "Aruban Florin"
+msgstr "Aruba Florini"
+
+#: FXW_DataArrays.php:409
+msgid "Azerbaijani Manat"
+msgstr "Azerbaycan Manatı"
+
+#: FXW_DataArrays.php:410
+msgid "Bosnia-Herzegovina Convertible Mark"
+msgstr "Bosna-Hersek Markı"
+
+#: FXW_DataArrays.php:411
+msgid "Barbadian Dollar"
+msgstr "Barbados Doları"
+
+#: FXW_DataArrays.php:412
+msgid "Bangladeshi Taka"
+msgstr "Bangladeş Takası"
+
+#: FXW_DataArrays.php:413
+msgid "Bulgarian Lev"
+msgstr "Bulgar Levası"
+
+#: FXW_DataArrays.php:414
+msgid "Bahraini Dinar"
+msgstr "Bahreyn Dinarı"
+
+#: FXW_DataArrays.php:415
+msgid "Burundian Franc"
+msgstr "Burundi Frangı"
+
+#: FXW_DataArrays.php:416
+msgid "Bermudan Dollar"
+msgstr "Bermuda Doları"
+
+#: FXW_DataArrays.php:417
+msgid "Brunei Dollar"
+msgstr "Brunei Doları"
+
+#: FXW_DataArrays.php:418
+msgid "Bolivian Boliviano"
+msgstr "Bolivya Bolivianosu"
+
+#: FXW_DataArrays.php:419
+msgid "Brazilian Real"
+msgstr "Brezilya Reali"
+
+#: FXW_DataArrays.php:420
+msgid "Bahamian Dollar"
+msgstr "Bahama Doları"
+
+#: FXW_DataArrays.php:421
+msgid "Bitcoin"
+msgstr "Bitcoin"
+
+#: FXW_DataArrays.php:422
+msgid "Bhutanese Ngultrum"
+msgstr "Bhutan Ngultrumu"
+
+#: FXW_DataArrays.php:423
+msgid "BitShares"
+msgstr "BitShares"
+
+#: FXW_DataArrays.php:424
+msgid "Botswana pula"
+msgstr "Botsvana Pulası"
+
+#: FXW_DataArrays.php:425
+msgid "Belarusian Ruble"
+msgstr "Beyaz Rusya Rublesi"
+
+#: FXW_DataArrays.php:426
+msgid "Belize Dollar"
+msgstr "Belize Doları"
+
+#: FXW_DataArrays.php:427
+msgid "Canadian Dollar"
+msgstr "Kanada Doları"
+
+#: FXW_DataArrays.php:428
+msgid "Congolese Franc"
+msgstr "Kongo Frangı"
+
+#: FXW_DataArrays.php:429
+msgid "Swiss Franc"
+msgstr "İsviçre Frangı"
+
+#: FXW_DataArrays.php:430
+msgid "Chilean Unit of Account (UF)"
+msgstr "Şili Hesap Birimi (UF)"
+
+#: FXW_DataArrays.php:431
+msgid "Chilean Peso"
+msgstr "Şili Pesosu"
+
+#: FXW_DataArrays.php:432
+msgid "Chinese Yuan (Offshore)"
+msgstr "Çin Yuanı (Açık Deniz)"
+
+#: FXW_DataArrays.php:433
+msgid "Chinese Yuan"
+msgstr "Çin Yuanı"
+
+#: FXW_DataArrays.php:434
+msgid "Colombian Peso"
+msgstr "Kolombiya Pesosu"
+
+#: FXW_DataArrays.php:435
+msgid "Costa Rican Colón"
+msgstr "Kosta Rika Kolonu"
+
+#: FXW_DataArrays.php:436
+msgid "Cuban Convertible Peso"
+msgstr "Name"
+
+#: FXW_DataArrays.php:437
+msgid "Cuban Peso"
+msgstr "Küba Pesosu"
+
+#: FXW_DataArrays.php:438
+msgid "Cape Verdean Escudo"
+msgstr "Yeşil Burun Adaları Eskudosu"
+
+#: FXW_DataArrays.php:439
+msgid "Czech Republic Koruna"
+msgstr "Çek Korunası"
+
+#: FXW_DataArrays.php:440
+msgid "Dash"
+msgstr "Dash"
+
+#: FXW_DataArrays.php:441
+msgid "Djiboutian Franc"
+msgstr "Cibuti Frangı"
+
+#: FXW_DataArrays.php:442
+msgid "Danish Krone"
+msgstr "Danimarka Kronu"
+
+#: FXW_DataArrays.php:443
+msgid "DogeCoin"
+msgstr "DogeCoin"
+
+#: FXW_DataArrays.php:444
+msgid "Dominican Peso"
+msgstr "Dominik Pesosu"
+
+#: FXW_DataArrays.php:445
+msgid "Algerian Dinar"
+msgstr "Cezayir Dinarı"
+
+#: FXW_DataArrays.php:446
+msgid "EarthCoin"
+msgstr "EarthCoin"
+
+#: FXW_DataArrays.php:447
+msgid "Egyptian Pound"
+msgstr "Mısır Lirası"
+
+#: FXW_DataArrays.php:448
+msgid "Emercoin"
+msgstr "Emercoin"
+
+#: FXW_DataArrays.php:449
+msgid "Eritrean Nakfa"
+msgstr "Eritre Nakfası"
+
+#: FXW_DataArrays.php:450
+msgid "Ethiopian Birr"
+msgstr "Etiyopya Birri"
+
+#: FXW_DataArrays.php:451
+msgid "Ethereum"
+msgstr "Ethereum"
+
+#: FXW_DataArrays.php:452
+msgid "Euro"
+msgstr "Euro"
+
+#: FXW_DataArrays.php:453
+msgid "Factom"
+msgstr "Factom"
+
+#: FXW_DataArrays.php:454
+msgid "Fijian Dollar"
+msgstr "Fiji Doları"
+
+#: FXW_DataArrays.php:455
+msgid "Falkland Islands Pound"
+msgstr "Falkland Adaları Poundu"
+
+#: FXW_DataArrays.php:456
+msgid "Feathercoin"
+msgstr "Feathercoin"
+
+#: FXW_DataArrays.php:457
+msgid "British Pound Sterling"
+msgstr "İngiliz Sterlini"
+
+#: FXW_DataArrays.php:458
+msgid "Georgian Lari"
+msgstr "Gürcistan Larisi"
+
+#: FXW_DataArrays.php:459
+msgid "Guernsey Pound"
+msgstr "Guernsey Pound"
+
+#: FXW_DataArrays.php:460
+msgid "Ghanaian Cedi"
+msgstr "Gana Cedisi"
+
+#: FXW_DataArrays.php:461
+msgid "Gibraltar Pound"
+msgstr "Gibraltar Lirası"
+
+#: FXW_DataArrays.php:462
+msgid "Gambian Dalasi"
+msgstr "Gambiya Dalasisi"
+
+#: FXW_DataArrays.php:463
+msgid "Guinean Franc"
+msgstr "Gine Frangı"
+
+#: FXW_DataArrays.php:464
+msgid "Guatemalan Quetzal"
+msgstr "Guatemala Quetzalı"
+
+#: FXW_DataArrays.php:465
+msgid "Guyanese Dollar"
+msgstr "Name"
+
+#: FXW_DataArrays.php:466
+msgid "Hong Kong Dollar"
+msgstr "Hong Kong Doları"
+
+#: FXW_DataArrays.php:467
+msgid "Honduran Lempira"
+msgstr "Honduras Lempirası"
+
+#: FXW_DataArrays.php:468
+msgid "Croatian Kuna"
+msgstr "Hırvatistan Kunası"
+
+#: FXW_DataArrays.php:469
+msgid "Haitian Gourde"
+msgstr "Haiti Gourdesi"
+
+#: FXW_DataArrays.php:470
+msgid "Hungarian Forint"
+msgstr "Macar Forinti"
+
+#: FXW_DataArrays.php:471
+msgid "Indonesian Rupiah"
+msgstr "Endonezya Rupisi"
+
+#: FXW_DataArrays.php:472
+msgid "Israeli New Sheqel"
+msgstr "Yeni İsrail Şekeli"
+
+#: FXW_DataArrays.php:473
+msgid "Manx pound"
+msgstr "Manx lirası"
+
+#: FXW_DataArrays.php:474
+msgid "Indian Rupee"
+msgstr "Hindistan Rupisi"
+
+#: FXW_DataArrays.php:475
+msgid "Iraqi Dinar"
+msgstr "Irak Dinarı"
+
+#: FXW_DataArrays.php:476
+msgid "Iranian Rial"
+msgstr "İran Riyali"
+
+#: FXW_DataArrays.php:477
+msgid "Icelandic Króna"
+msgstr "İzlanda Króna"
+
+#: FXW_DataArrays.php:478
+msgid "Jersey Pound"
+msgstr "Jersey Poundu"
+
+#: FXW_DataArrays.php:479
+msgid "Jamaican Dollar"
+msgstr "Jamaika Doları"
+
+#: FXW_DataArrays.php:480
+msgid "Jordanian Dinar"
+msgstr "Name"
+
+#: FXW_DataArrays.php:481
+msgid "Japanese Yen"
+msgstr "Japon Yeni"
+
+#: FXW_DataArrays.php:482
+msgid "Kenyan Shilling"
+msgstr "Kenya Şilini"
+
+#: FXW_DataArrays.php:483
+msgid "Kyrgyzstani Som"
+msgstr "KırgızistanName"
+
+#: FXW_DataArrays.php:484
+msgid "Cambodian Riel"
+msgstr "Kamboçya Rieli"
+
+#: FXW_DataArrays.php:485
+msgid "Comorian Franc"
+msgstr "Komor Frangı"
+
+#: FXW_DataArrays.php:486
+msgid "North Korean Won"
+msgstr "Kuzey Kore Wonu"
+
+#: FXW_DataArrays.php:487
+msgid "South Korean Won"
+msgstr "Güney Kore Wonu"
+
+#: FXW_DataArrays.php:488
+msgid "Kuwaiti Dinar"
+msgstr "Kuveyt Dinarı"
+
+#: FXW_DataArrays.php:489
+msgid "Cayman Islands Dollar"
+msgstr "Cayman Adaları Doları"
+
+#: FXW_DataArrays.php:490
+msgid "Kazakhstani Tenge"
+msgstr "Kazakistan Tengesi"
+
+#: FXW_DataArrays.php:491
+msgid "Laotian Kip"
+msgstr "Laos Kipi"
+
+#: FXW_DataArrays.php:492
+msgid "Lebanese Pound"
+msgstr "Lübnan Lirası"
+
+#: FXW_DataArrays.php:493
+msgid "Linden Dollar"
+msgstr "Linden Doları"
+
+#: FXW_DataArrays.php:494
+msgid "Sri Lankan Rupee"
+msgstr "Sri Lankan Rupisi"
+
+#: FXW_DataArrays.php:495
+msgid "Liberian Dollar"
+msgstr "Liberya Doları"
+
+#: FXW_DataArrays.php:496
+msgid "Lesotho Loti"
+msgstr "Lesotho Lotisi"
+
+#: FXW_DataArrays.php:497
+msgid "LiteCoin"
+msgstr "LiteCoin"
+
+#: FXW_DataArrays.php:498
+msgid "Libyan Dinar"
+msgstr "Libya Dinarı"
+
+#: FXW_DataArrays.php:499
+msgid "Moroccan Dirham"
+msgstr "Fas Dirhemi"
+
+#: FXW_DataArrays.php:500
+msgid "Moldovan Leu"
+msgstr "Moldovya Leusu"
+
+#: FXW_DataArrays.php:501
+msgid "Malagasy Ariary"
+msgstr "Madagaskar Ariarisi"
+
+#: FXW_DataArrays.php:502
+msgid "Macedonian Denar"
+msgstr "Makedonya Dinarı"
+
+#: FXW_DataArrays.php:503
+msgid "Myanmar (Burmese) kyat"
+msgstr "Myanmar (Birmanya) kyat"
+
+#: FXW_DataArrays.php:504
+msgid "Mongolian Tugrik"
+msgstr "Moğolistan Tugriki"
+
+#: FXW_DataArrays.php:505
+msgid "Macanese Pataca"
+msgstr "Makao Patakası"
+
+#: FXW_DataArrays.php:506
+msgid "Mauritanian Ouguiya (pre-2018)"
+msgstr "Moritanya Ouguiya'sı (2018 öncesi)"
+
+#: FXW_DataArrays.php:507
+msgid "Mauritanian Ouguiya"
+msgstr "Moritanya Ugiyası"
+
+#: FXW_DataArrays.php:508
+msgid "Mauritian Rupee"
+msgstr "Mauritius Rupisi"
+
+#: FXW_DataArrays.php:509
+msgid "Maldivian Rufiyaa"
+msgstr "Maldiv Rufiyası"
+
+#: FXW_DataArrays.php:510
+msgid "Malawian Kwacha"
+msgstr "Malawi Kvaçası"
+
+#: FXW_DataArrays.php:511
+msgid "Mexican Peso"
+msgstr "Meksika Pezosu"
+
+#: FXW_DataArrays.php:512
+msgid "Malaysian Ringgit"
+msgstr "Malezya Ringgiti"
+
+#: FXW_DataArrays.php:513
+msgid "Mozambican Metical"
+msgstr "Mozambik Meticali"
+
+#: FXW_DataArrays.php:514
+msgid "Namibian Dollar"
+msgstr "Namibya Doları"
+
+#: FXW_DataArrays.php:515
+msgid "Nigerian Naira"
+msgstr "Nijerya Nairası"
+
+#: FXW_DataArrays.php:516
+msgid "Nicaraguan Córdoba"
+msgstr "Nikaragua Córdobası"
+
+#: FXW_DataArrays.php:517
+msgid "Namecoin"
+msgstr "Namecoin"
+
+#: FXW_DataArrays.php:518
+msgid "Norwegian Krone"
+msgstr "Norveç Kronu"
+
+#: FXW_DataArrays.php:519
+msgid "Nepalese Rupee"
+msgstr "Nepal Rupisi"
+
+#: FXW_DataArrays.php:520
+msgid "NovaCoin"
+msgstr "NovaCoin"
+
+#: FXW_DataArrays.php:521
+msgid "Nxt"
+msgstr "Nxt"
+
+#: FXW_DataArrays.php:522
+msgid "New Zealand Dollar"
+msgstr "Yeni Zelanda Doları"
+
+#: FXW_DataArrays.php:523
+msgid "Omani Rial"
+msgstr "Umman Riyali"
+
+#: FXW_DataArrays.php:524
+msgid "Panamanian Balboa"
+msgstr "Panama Balboası"
+
+#: FXW_DataArrays.php:525
+msgid "Peruvian Nuevo Sol"
+msgstr "Name"
+
+#: FXW_DataArrays.php:526
+msgid "Papua New Guinean Kina"
+msgstr "Papua Yeni Gine Kinası"
+
+#: FXW_DataArrays.php:527
+msgid "Philippine Peso"
+msgstr "Filipin Pesosu"
+
+#: FXW_DataArrays.php:528
+msgid "Pakistani Rupee"
+msgstr "Pakistan Rupisi"
+
+#: FXW_DataArrays.php:529
+msgid "Polish Zloty"
+msgstr "Polonya Zlotisi"
+
+#: FXW_DataArrays.php:530
+msgid "Peercoin"
+msgstr "Peercoin"
+
+#: FXW_DataArrays.php:531
+msgid "Paraguayan Guarani"
+msgstr "Paraguay Guaranisi"
+
+#: FXW_DataArrays.php:532
+msgid "Qatari Rial"
+msgstr "Katar Riyali"
+
+#: FXW_DataArrays.php:533
+msgid "Romanian Leu"
+msgstr "Romen Leusu"
+
+#: FXW_DataArrays.php:534
+msgid "Serbian Dinar"
+msgstr "Sırp Dinarı"
+
+#: FXW_DataArrays.php:535
+msgid "Russian Ruble"
+msgstr "Rus Rublesi"
+
+#: FXW_DataArrays.php:536
+msgid "Rwandan Franc"
+msgstr "Ruanda Frangı"
+
+#: FXW_DataArrays.php:537
+msgid "Saudi Riyal"
+msgstr "Suudi Riyali"
+
+#: FXW_DataArrays.php:538
+msgid "Solomon Islands Dollar"
+msgstr "Solomon Adaları Doları"
+
+#: FXW_DataArrays.php:539
+msgid "Seychellois Rupee"
+msgstr "Seyşeller Rupisi"
+
+#: FXW_DataArrays.php:540
+msgid "Sudanese Pound"
+msgstr "Sudan Lirası"
+
+#: FXW_DataArrays.php:541
+msgid "Swedish Krona"
+msgstr "İsveç Kronu"
+
+#: FXW_DataArrays.php:542
+msgid "Singapore Dollar"
+msgstr "Singapur Doları"
+
+#: FXW_DataArrays.php:543
+msgid "Saint Helena Pound"
+msgstr "Saint Helena Paundu"
+
+#: FXW_DataArrays.php:544
+msgid "Sierra Leonean Leone"
+msgstr "Sierra Leone Leonesi"
+
+#: FXW_DataArrays.php:545
+msgid "Somali Shilling"
+msgstr "Somali Şilini"
+
+#: FXW_DataArrays.php:546
+msgid "Surinamese Dollar"
+msgstr "Surinam Doları"
+
+#: FXW_DataArrays.php:547
+msgid "South Sudanese Pound"
+msgstr "Güney Sudan Lirası"
+
+#: FXW_DataArrays.php:548
+msgid "São Tomé and Príncipe Dobra (pre-2018)"
+msgstr "São Tomé ve Príncipe Dobra (2018 öncesi)"
+
+#: FXW_DataArrays.php:549
+msgid "São Tomé and Príncipe Dobra"
+msgstr "Sao Tome ve PrincipeName"
+
+#: FXW_DataArrays.php:550
+msgid "Stellar"
+msgstr "Stellar"
+
+#: FXW_DataArrays.php:551
+msgid "Salvadoran Colón"
+msgstr "Salvador Kolonu"
+
+#: FXW_DataArrays.php:552
+msgid "Syrian Pound"
+msgstr "Suriye Lirası"
+
+#: FXW_DataArrays.php:553
+msgid "Swazi Lilangeni"
+msgstr "SwazilandName"
+
+#: FXW_DataArrays.php:554
+msgid "Thai Baht"
+msgstr "Tay Bahtı"
+
+#: FXW_DataArrays.php:555
+msgid "Tajikistani Somoni"
+msgstr "Tacikistan Somonisi"
+
+#: FXW_DataArrays.php:556
+msgid "Turkmenistani Manat"
+msgstr "Türkmenistan Manatı"
+
+#: FXW_DataArrays.php:557
+msgid "Tunisian Dinar"
+msgstr "Tunus Dinarı"
+
+#: FXW_DataArrays.php:558
+msgid "Tongan Paʻanga"
+msgstr "Tonga Paʻangası"
+
+#: FXW_DataArrays.php:559
+msgid "Turkish Lira"
+msgstr "Türk Lirası"
+
+#: FXW_DataArrays.php:560
+msgid "Trinidad and Tobago Dollar"
+msgstr "Trinidad ve Tobago Doları"
+
+#: FXW_DataArrays.php:561
+msgid "New Taiwan Dollar"
+msgstr "Yeni Tayvan Doları"
+
+#: FXW_DataArrays.php:562
+msgid "Tanzanian Shilling"
+msgstr "Tanzanya Şilini"
+
+#: FXW_DataArrays.php:563
+msgid "Ukrainian Hryvnia"
+msgstr "Ukrayna Grivnası"
+
+#: FXW_DataArrays.php:564
+msgid "Ugandan Shilling"
+msgstr "Uganda Şilini"
+
+#: FXW_DataArrays.php:565
+msgid "US Dollar"
+msgstr "Amerikan Doları"
+
+#: FXW_DataArrays.php:566
+msgid "Uruguayan Peso"
+msgstr "Uruguay Pesosu"
+
+#: FXW_DataArrays.php:567
+msgid "Uzbekistan Som"
+msgstr "Özbekistan Somu"
+
+#: FXW_DataArrays.php:568
+msgid "Venezuelan Bolívar Fuerte (Old)"
+msgstr "Venezuela Bolivar Fuerte (Eski)"
+
+#: FXW_DataArrays.php:569
+msgid "Venezuelan Bolívar (Black Market)"
+msgstr "Venezuela Bolivarı (Karaborsa)"
+
+#: FXW_DataArrays.php:570
+msgid "Venezuelan Bolívar (DICOM)"
+msgstr "Venezuela Bolivarı (DICOM)"
+
+#: FXW_DataArrays.php:571
+msgid "Venezuelan Bolívar (DIPRO)"
+msgstr "Venezuela Bolivarı (DIPRO)"
+
+#: FXW_DataArrays.php:572
+msgid "Venezuelan Bolívar Soberano"
+msgstr "Venezuela Bolivar Soberano"
+
+#: FXW_DataArrays.php:573
+msgid "Vietnamese Dong"
+msgstr "Vietnam Dongu"
+
+#: FXW_DataArrays.php:574
+msgid "VertCoin"
+msgstr "VertCoin"
+
+#: FXW_DataArrays.php:575
+msgid "Vanuatu Vatu"
+msgstr "Vanuatu Vatusu"
+
+#: FXW_DataArrays.php:576
+msgid "Samoan Tala"
+msgstr "Samoa Talası"
+
+#: FXW_DataArrays.php:577
+msgid "CFA Franc BEAC"
+msgstr "Orta Afrika CFA Frangı"
+
+#: FXW_DataArrays.php:578
+msgid "Silver Ounce"
+msgstr "Gümüş ons"
+
+#: FXW_DataArrays.php:579
+msgid "Gold Ounce"
+msgstr "Altın Ons"
+
+#: FXW_DataArrays.php:580
+msgid "East Caribbean Dollar"
+msgstr "Doğu Karayipler Doları"
+
+#: FXW_DataArrays.php:581
+msgid "Special Drawing Rights"
+msgstr "Özel Çekme Hakları"
+
+#: FXW_DataArrays.php:582
+msgid "Monero"
+msgstr "Monero"
+
+#: FXW_DataArrays.php:583
+msgid "CFA Franc BCEAO"
+msgstr "Batı Afrika CFA Frangı"
+
+#: FXW_DataArrays.php:584
+msgid "Palladium Ounce"
+msgstr "Paladyum Ons"
+
+#: FXW_DataArrays.php:585
+msgid "CFP Franc"
+msgstr "CFP Frangı"
+
+#: FXW_DataArrays.php:586
+msgid "Primecoin"
+msgstr "Primecoin"
+
+#: FXW_DataArrays.php:587
+msgid "Platinum Ounce"
+msgstr "Platin Ons"
+
+#: FXW_DataArrays.php:588
+msgid "Ripple"
+msgstr "Ripple"
+
+#: FXW_DataArrays.php:589
+msgid "Yemeni Rial"
+msgstr "Yemen Riali"
+
+#: FXW_DataArrays.php:590
+msgid "South African Rand"
+msgstr "Güney Afrika Randı"
+
+#: FXW_DataArrays.php:591
+msgid "Zambian Kwacha"
+msgstr "Zambia Kvaçası"
+
+#: FXW_DataArrays.php:592
+msgid "Zimbabwean Dollar"
+msgstr "Zimbabwe Doları"
+
+#: FXW_Layout.php:20
+msgid "Menu"
+msgstr "Menü"
+
+#: FXW_Layout.php:22
+msgid "Info"
+msgstr "Bilgi"
+
+#: FXW_Layout.php:29
+msgid "Currencies (ISO 4217)"
+msgstr "Para birimleri (ISO 4217)"
+
+#: FXW_Layout.php:33
+msgid "Currency by Country"
+msgstr "Ülkeye Göre Para Birimi"
+
+#: FXW_Layout.php:39
+msgid "Help"
+msgstr "Yardım"
+
+#: FXW_Layout.php:42
+msgid "Online Support"
+msgstr "Online Destek"
+
+#: FXW_Layout.php:46
+msgid "License"
+msgstr "Lisans"
+
+#: FXW_Layout.php:50
+msgid "About"
+msgstr "Hakkında"
+
+#: FXW_Layout.php:59
+msgid "Terms of Use"
+msgstr "Kullanım Şartları"
+
+#: FXW_Layout.php:63
+msgid "Privacy Policy"
+msgstr "Gizlilik Politikası"
+
+#: FXW_Layout.php:67
+msgid "Legal Disclaimer"
+msgstr "Yasal Uyarı"
+
+#: FXW_Layout.php:72
+msgid "Widgets"
+msgstr "Bileşenler"
+
+#: FXW_Layout.php:74
+msgid "Languages"
+msgstr "Diller"
+
+#: FXW_Layout.php:79
+msgid "How to use?"
+msgstr "Nasıl kullanılır?"
+
+#: FXW_Layout.php:80
+msgid "Our HTML widget — embeds simple just like a YouTube video."
+msgstr ""
+"HTML widget'ımız - tıpkı bir YouTube videosu gibi basit bir şekilde gömülür."
+
+#: FXW_Layout.php:84
+msgid "Why is this FREE?"
+msgstr "Bu neden ÜCRETSİZ?"
+
+#: FXW_Layout.php:85
+msgid ""
+"We have combined our programming skills and data providers to create finance "
+"tools. We want everyone to use our widgets and so we made them this free. "
+"Despite the fact that our products are free, we make them modern, pretty, "
+"competitive and in more than 67 languages."
+msgstr ""
+"Finans araçları oluşturmak için programlama becerilerimizi ve veri "
+"sağlayıcılarımızı birleştirdik. Herkesin widget'larımızı kullanmasını "
+"istiyoruz ve bu yüzden onları bu kadar ücretsiz hale getirdik. Ürünlerimizin "
+"ücretsiz olmasına rağmen, onları modern, güzel, rekabetçi ve 67'den fazla "
+"dilde yapıyoruz."
+
+#: FXW_Layout.php:89
+msgid "What websites can I use this widget on?"
+msgstr "Bu widget'ı hangi web sitelerinde kullanabilirim?"
+
+#: FXW_Layout.php:90
+msgid ""
+"Absolutely any websites. Just copy and paste the HTML-code on your website."
+msgstr ""
+"Kesinlikle herhangi bir web sitesi. HTML kodunu kopyalayıp web sitenize "
+"yapıştırmanız yeterlidir."
+
+#: FXW_Layout.php:94
+msgid "Where do exchange rates data come from?"
+msgstr "Döviz kurları verileri nereden geliyor?"
+
+#: FXW_Layout.php:95
+msgid ""
+"We buy data from reliable and secure exchange rates providers and update "
+"every hour. You can find a list of providers on the page: about."
+msgstr ""
+"Güvenilir ve güvenli döviz kuru sağlayıcılarından veri satın alıyor ve her "
+"saat güncelliyoruz. Sağlayıcıların listesini şu sayfada bulabilirsiniz: "
+"hakkında."
+
+#: FXW_Layout.php:101
+msgid "Auto"
+msgstr "Otomatik"
+
+#: FXW_Layout.php:102 FXW_Layout.php:142
+msgid "Default"
+msgstr "Varsayılan"
+
+#: FXW_Layout.php:103
+msgid "Preset currencies for countries"
+msgstr "Ülkeler için önceden ayarlanmış para birimleri"
+
+#: FXW_Layout.php:104
+msgid "Preview"
+msgstr "Önizleme"
+
+#: FXW_Layout.php:105
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: FXW_Layout.php:106
+msgid "Advanced"
+msgstr "Gelişmiş"
+
+#: FXW_Layout.php:107
+msgid "Inverse"
+msgstr "Ters"
+
+#: FXW_Layout.php:108
+msgid "Amount"
+msgstr "Tutar"
+
+#: FXW_Layout.php:109
+msgid "Language"
+msgstr "Dil"
+
+#: FXW_Layout.php:110
+msgid "Main currency"
+msgstr "Ana para birimi"
+
+#: FXW_Layout.php:111
+msgid "From"
+msgstr "Kimden"
+
+#: FXW_Layout.php:112
+msgid "To"
+msgstr "Kime"
+
+#: FXW_Layout.php:113
+msgid "Select the currency"
+msgstr "Para birimini seçin"
+
+#: FXW_Layout.php:114
+msgid "Select the popular currency"
+msgstr "Popüler para birimini seçin"
+
+#: FXW_Layout.php:115
+msgid "Color scheme"
+msgstr "Renk uyumu"
+
+#: FXW_Layout.php:116
+msgid "Custom color"
+msgstr "Özel Renk"
+
+#: FXW_Layout.php:117
+msgid "Color"
+msgstr "Renk"
+
+#: FXW_Layout.php:118
+msgid "Gradient color scheme"
+msgstr "Gradyan renk düzeni"
+
+#: FXW_Layout.php:119
+msgid "Select the gradient..."
+msgstr "Gradyanı seçin ..."
+
+#: FXW_Layout.php:120
+msgid "Direction"
+msgstr "Yön"
+
+#: FXW_Layout.php:121
+msgid "Gradient"
+msgstr "Eğim"
+
+#: FXW_Layout.php:122
+msgid "Random"
+msgstr "Rastgele"
+
+#: FXW_Layout.php:123
+msgid "Radius"
+msgstr "Yarıçap"
+
+#: FXW_Layout.php:124
+msgid "Format"
+msgstr "Biçim"
+
+#: FXW_Layout.php:125
+msgid "Style"
+msgstr "Stil"
+
+#: FXW_Layout.php:126
+msgid "Currency"
+msgstr "Para Birimi"
+
+#: FXW_Layout.php:127
+msgid "Precision"
+msgstr "Hassas"
+
+#: FXW_Layout.php:128
+msgid "Options"
+msgstr "Seçenekler"
+
+#: FXW_Layout.php:129
+msgid "Copy HTML-code"
+msgstr "HTML kodunu kopyala"
+
+#: FXW_Layout.php:130
+msgid "Copy to clipboard"
+msgstr "Panoya kopyala"
+
+#: FXW_Layout.php:131
+#, php-format
+msgid "I agree with the %sterms of use%s and %slicense%s agreement."
+msgstr "Kullanım %skoşullarını%s ve %slisans%s sözleşmesini kabul ediyorum."
+
+#: FXW_Layout.php:132
+msgid "Customize"
+msgstr "Özelleştir"
+
+#: FXW_Layout.php:133
+msgid "Free & Powerful currency widgets for your website/blog."
+msgstr "Web siteniz/blogunuz için Ücretsiz ve Güçlü para birimi widget'ları."
+
+#: FXW_Layout.php:134
+msgid "for website"
+msgstr "web sitesi için"
+
+#: FXW_Layout.php:135
+msgid "Do you have any questions or do you need help?"
+msgstr "Sorularınız mı var veya yardıma mı ihtiyacınız var?"
+
+#: FXW_Layout.php:136
+msgid "Our support (24/7) will help you configure and install the widget:"
+msgstr ""
+"Desteğimiz (24/7), widget'ı yapılandırmanıza ve yüklemenize yardımcı "
+"olacaktır:"
+
+#: FXW_Layout.php:137
+msgid "Found a bug or do you have a suggestion?"
+msgstr "Bir hata mı buldunuz veya bir öneriniz mi var?"
+
+#: FXW_Layout.php:138
+msgid "Go to"
+msgstr "Git"
+
+#: FXW_Layout.php:139
+msgid "For Developers"
+msgstr "Geliştiriciler için"
+
+#: FXW_Layout.php:140
+msgid "FAQ"
+msgstr "SSS"
+
+#: FXW_Layout.php:141
+msgid "Attribute"
+msgstr "Özellik"
+
+#: FXW_Layout.php:143
+msgid "Type"
+msgstr "Tip"
+
+#: FXW_Layout.php:145
+msgid ""
+"based on a progressive JavaScript framework, in this way our currency tools "
+"has inherited reactive properties – editing attributes you can observe "
+"instant changes."
+msgstr ""
+"aşamalı bir JavaScript çerçevesine dayalı olarak, bu şekilde para birimi "
+"araçlarımız reaktif özellikleri miras almıştır - anlık değişiklikleri "
+"gözlemleyebileceğiniz nitelikleri düzenler."
+
+#: FXW_Layout.php:146
+msgid ""
+"The color of the text depends on the background: light text will appear on a "
+"dark «background» and vice versa. If you use attribute «background» don't "
+"forget about set «background-color». Otherwise the text may merge with the "
+"background."
+msgstr ""
+"Metnin rengi arka plana bağlıdır: açık renkli metin koyu bir \"arka planda\" "
+"görünecektir ve bunun tersi de geçerlidir. «Arkaplan» özelliğini "
+"kullanırsanız «arkaplan rengi» ayarlamayı unutmayın. Aksi takdirde metin "
+"arka planla birleşebilir."
+
+#: FXW_Layout.php:147
+msgid "Use «background» attribute with «background-color»."
+msgstr "«background» ile «background-color» özelliğini kullanın."
+
+#: FXW_Layout.php:148
+msgid "Description"
+msgstr "Açıklama"
+
+#: FXW_Layout.php:149
+msgid "Embeddable currency widget for all websites."
+msgstr "Tüm web siteleri için gömülebilir para birimi widget'ı."
+
+#: FXW_Layout.php:150
+msgid "Tag of widget"
+msgstr "Widget etiketi"
+
+#: FXW_Layout.php:151
+msgid ""
+"The table below contains a list of attributes that can be applied to a "
+"widget."
+msgstr ""
+"Aşağıdaki tablo, bir parçacığa uygulanabilecek niteliklerin bir listesini "
+"içerir."
+
+#: FXW_Layout.php:153
+msgid "Country"
+msgstr "Ülke"
+
+#: FXW_Layout.php:154
+msgid "Name"
+msgstr "Adı"
+
+#: FXW_Layout.php:155
+msgid "Native name"
+msgstr "Yerli isim"
+
+#: FXW_Layout.php:156
+msgid ""
+"This website uses privacy policy and cookies to ensure you get the best "
+"experience on our website."
+msgstr ""
+"Bu web sitesi, web sitemizde en iyi deneyimi yaşamanızı sağlamak için "
+"gizlilik politikası ve çerezler kullanır."
+
+#: FXW_Layout.php:157
+msgid "The current stable version is"
+msgstr "Mevcut kararlı sürüm"
+
+#: FXW_Layout.php:158
+msgid "Active installations"
+msgstr "Etkin kurulumlar"
+
+#: FXW_Layout.php:159
+msgid "You can choice default preset of currencies for your country."
+msgstr "Ülkeniz için varsayılan para birimlerini önceden seçebilirsiniz."
+
+#: FXW_Layout.php:160
+msgid "You can set default currencies show up first of select list."
+msgstr ""
+"Varsayılan para birimlerinin seçilen listeden ilk olarak görünmesini "
+"ayarlayabilirsiniz."
+
+#: FXW_Layout.php:167 FXW_Layout.php:168 FXW_Layout.php:239 FXW_Layout.php:240
+msgid "Currency Converter Widget"
+msgstr "Döviz Çevirici Widget'ı"
+
+#: FXW_Layout.php:169
+msgid ""
+"The Currency Converter Widget is a free and easy-to-use with beauty UI real-"
+"time web tool  to conversion any two currency. Customers can choose from "
+"available ~195 currencies, include precious metals."
+msgstr ""
+"Para Birimi Dönüştürücü Aracı, herhangi iki para birimini dönüştürmek için "
+"güzellik kullanıcı arayüzüne sahip gerçek zamanlı web aracı ile ücretsiz ve "
+"kullanımı kolay bir araçtır. Müşteriler, değerli metaller de dahil olmak "
+"üzere mevcut ~ 195 para birimi arasından seçim yapabilirler."
+
+#: FXW_Layout.php:193 FXW_Layout.php:265 FXW_Layout.php:310
+msgid "Real-time currency converter"
+msgstr "Gerçek zamanlı para birimi dönüştürücü"
+
+#: FXW_Layout.php:197 FXW_Layout.php:269
+msgid "The client chooses any currency"
+msgstr "Müşteri herhangi bir para birimini seçer"
+
+#: FXW_Layout.php:203 FXW_Layout.php:279
+msgid "Exchange Rates"
+msgstr "Döviz Kurları"
+
+#: FXW_Layout.php:204 FXW_Layout.php:205 FXW_Layout.php:280 FXW_Layout.php:281
+msgid "Exchange Rates Widget"
+msgstr "Döviz Kurları Widget'ı"
+
+#: FXW_Layout.php:206
+msgid ""
+"The Exchange Rates Widget is a free and easy-to-use with beauty UI web tool "
+"to display exchange rates with indicators of change rates for 24 hours."
+msgstr ""
+"Döviz Kurları Pencere Öğesi, döviz kurlarını 24 saatlik değişim oranları "
+"göstergeleriyle görüntülemek için güzellik kullanıcı arayüzü web aracıyla "
+"ücretsiz ve kullanımı kolay bir araçtır."
+
+#: FXW_Layout.php:233
+msgid "Minimal design"
+msgstr "Minimal tasarım"
+
+#: FXW_Layout.php:234 FXW_Layout.php:322
+msgid "Inverse rate is supported"
+msgstr "Ters oran desteklenir"
+
+#: FXW_Layout.php:241
+msgid ""
+"The Currency Converter Widget PRO is a free and easy-to-use with beauty UI "
+"extended version of Currency Converter widget, that can multiple currencies "
+"real-time calculation and which has all the features of a classic widget."
+msgstr ""
+"Currency Converter Widget PRO, Para Birimi Dönüştürücü widget'ının güzellik "
+"kullanıcı arayüzünün genişletilmiş sürümüne sahip ücretsiz ve kullanımı "
+"kolay, birden fazla para birimini gerçek zamanlı hesaplama yapabilen ve "
+"klasik bir widget'ın tüm özelliklerine sahip olan ücretsiz ve kullanımı "
+"kolay bir uygulamadır."
+
+#: FXW_Layout.php:273
+msgid "Multi-currency support"
+msgstr "Çoklu para birimi desteği"
+
+#: FXW_Layout.php:282
+msgid ""
+"The Exchange Rates widget PRO is a free and easy-to-use with beauty UI "
+"extended version of Exchange Rates widget, with user entry amount, adding "
+"tax/percentage to the calculations and which has all the features of a "
+"classic widget."
+msgstr ""
+"Döviz Kurları widget'ı PRO, Döviz Kurları widget'ının güzellik kullanıcı "
+"arayüzünün genişletilmiş sürümüne sahip, kullanıcı giriş miktarı, "
+"hesaplamalara vergi / yüzde ekleyen ve klasik bir widget'ın tüm "
+"özelliklerine sahip, ücretsiz ve kullanımı kolay bir araçtır."
+
+#: FXW_Layout.php:314
+msgid "Adding percent/tax"
+msgstr "Yüzde/vergi ekleniyor"
+
+#: FXW_Layout.php:318
+msgid "Amount input"
+msgstr "Miktar girişi"
+
+#~ msgid "Get widget"
+#~ msgstr "Get widget"
+
+#~ msgid ""
+#~ "This real-time web tool to conversion any two currencies exchange rates. "
+#~ "Users can entry the money amount, choose from available ~195 currencies "
+#~ "two currencies to calculate exchange rates."
+#~ msgstr ""
+#~ "This real-time web tool to conversion any two currencies exchange rates. "
+#~ "Users can entry the money amount, choose from available ~195 currencies "
+#~ "two currencies to calculate exchange rates."
+
+#~ msgid "List of Exchange Rates with indicators of change rates for 24 hours."
+#~ msgstr ""
+#~ "List of Exchange Rates with indicators of change rates for 24 hours."
